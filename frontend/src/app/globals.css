@@ -1,4 +1,6 @@
 @import "tailwindcss";
+@import "@rainbow-me/rainbowkit/styles.css";
+
 
 :root {
   --background: #ffffff;
